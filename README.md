@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xHadi3
+- 👋 Hi, I’m Hadi
 - 👀 I’m interested in flutter
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me hadiessam9@gmail.com
