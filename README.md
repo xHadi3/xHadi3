@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hadi
-- 👀 I’m interested in flutter
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me hadiessam9@gmail.com
 
 <!---
